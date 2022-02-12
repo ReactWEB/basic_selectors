@@ -1,7 +1,7 @@
 a[target="_blank"]{
   color: green;
 }
-li{
+ol, ul{
   background-color: yellow;
 }
 header, footer{
@@ -16,6 +16,6 @@ article.new{
 li.new{
   background-color: red;
 }
-article.new, article.new posted-today{
+article.new, .new posted-today{
   background-color: pink;
 }
