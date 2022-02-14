@@ -11,12 +11,11 @@ h1, h2, h3, h4{
   margin-left: 20px;
 }
 article.new{
-  font-size: 24px; 
-  background-color: pink; 
+  font-size: 24px;    
 }
 li.topic.new{
   background-color: red;
 }
-article.posted-today{
+article.new, article.posted-today{
   background-color: pink;
 }
